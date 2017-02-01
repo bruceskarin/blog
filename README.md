@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
+## Bruce Skarin
+### Father, Scientist, & Activist
 You can use the [editor on GitHub](https://github.com/bruceskarin/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a scientist and writer obsessed with understanding big problems that require well designed solutions. By education and by trade I am a modeler, which means I build computer models that describe the structure of problems so they can be simulated and compared to historic real-world behavior in order to develop long lasting, efficient solutions. Put more simply, I use computers to help solve problems that _cannot_ be solved without their aid.
 
-### Markdown
+After the birth of my first of two sons in 2010, my research into our inability to act on large-scale issues such as climate change and national debt led me to Congress, which then led me to money in politics. Since then, I have dedicated a great deal of time, energy, and treasure to understanding and addressing the causes and consequences of the institutionalized form of corruption that has hijacked our country. A corruption that is the singular root cause preventing our country from dealing with every other pressing issue before us.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my efforts to raise awareness and promote understanding, I have walked over 200 miles as part of the [NH Rebellion](http://www.nhrebellion.org/). I [ran as an independent in the 2014 Massachusetts U.S. Senate race](/walk), backed entirely by small dollar contributions and walking over 340 miles while collecting signatures to get on the ballot.
 
-```markdown
-Syntax highlighted code block
+I also occasionally write for [Independent Voter Network](http://ivn.us/author/bruceskarin/) and most recently completed [reseach that includes a comprehensive model describing the relationship between campaign finance, institutional corruption, public policy, and income disparities](/research). From this work I was able to compare and explore all the popular campaign finance reform proposals to see which are most effective and permanent.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bruceskarin/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Going forward I will continue doing all that I can manage to help restore citizen equality and our representative democracy so that the United States can once again live up to its full potential and provide a future for our children that is bright and full of opportunity.
